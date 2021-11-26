@@ -1,0 +1,74 @@
+.Header{
+    background-color: black;
+    font-family: 'Metal Mania', cursive;
+    font-style: normal; 
+    font-weight: bold;
+    font-size: 24px;
+    padding: 0.6rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #e3e3e3;
+}
+nav ul li{
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Metal Mania', cursive;
+    margin: 3px 20px 5px 20px;
+    font-size: 30px;
+    color: #e3e3e3;
+}
+ul li {
+    display: grid;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px; color: black; 
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.Main{
+    background-color: #800B0B;
+    font-family: 'Montserrat', sans-serif; 
+    color: white;
+    font-size: 20px;
+}
+.flex-container{
+    display: flex;
+    height: 600px;
+    align-items: flex-start;
+    padding: 2%;
+    border: 2px;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buscador{
+    background-color: #800B0B;
+    width: 220px;
+    height: 55px;
+    color: slategray;
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+.tablaOjo{
+    background-color: black;
+    width: 300px;
+    height: 400px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 25px;
+    
+}
+.footer{
+    background-color: #e3e3e3;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
