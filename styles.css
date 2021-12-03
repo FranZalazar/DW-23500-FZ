@@ -1,4 +1,4 @@
-.Header{
+header{
     background-color: black;
     font-family: 'Metal Mania', cursive;
     font-style: normal; 
@@ -29,7 +29,7 @@ ul li {
     padding: 0%;
 }
 
-.Main{
+main{
     background-color: #800B0B;
     font-family: 'Montserrat', sans-serif; 
     color: white;
@@ -62,7 +62,7 @@ ul li {
     border-radius: 25px;
     
 }
-.footer{
+footer{
     background-color: #e3e3e3;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
